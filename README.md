@@ -60,7 +60,7 @@ Email client for viewing .eml file
 
 Manual inspection of content for linguistic clues
 
-Online email header analyzers (recommended for full headers): Zoho Toolkit, Mailmodo Email Header Analyzer (not included here)
+Online email header analyzers (recommended for full headers): Zoho Toolkit, Mailmodo Email Header Analyzer, MX ToolBox(https://mxtoolbox.com/EmailHeaders.aspx) (not included here)
 
 How to Use This Repository
 Review the attached phishing email (sample-10.eml) in any compatible email client to view the raw email.
